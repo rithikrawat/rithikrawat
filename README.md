@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Frontend Development and mastering DSA in Java.<br>📫 How to reach me : https://bit.ly/40ouQVU<br>⚡ Fun fact : I'm open to learn Anything, Anywhere.
+🌱 I’m currently learning Frontend Development and mastering DSA in Java.<br>📫 How to reach me : https://bit.ly/3Ug8ILx<br>⚡ Fun fact : I'm open to learn Anything, Anywhere.
 
 
 ## 🌐 Socials:
